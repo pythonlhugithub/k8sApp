@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wcpoZdtsknFdtvFAF3LBJ0sF0lwWjVQlfqMPzoZ7IHg=",
+  "Source": "AzureNet7WebApi",
+  "BasePath": "_content/AzureNet7WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
